@@ -1,0 +1,187 @@
+<html>
+  <head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+	<title></title>
+	<style>
+		*{
+			margin: 10;
+			padding: 1;}
+			body {
+				background-color: white;
+			font-family: 'Caveat', cursive;}
+
+.content{
+	display: flex;
+	width: 100%;
+	height: 30vw;
+    color: #fff;
+    flex-direction: column;
+
+}
+ .row{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	flex-direction: column;
+}
+.video{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+}
+.row img {
+	width: 50%;
+}
+h4{
+	font-size: 7vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+
+}
+h2{
+font-size: 3vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+}
+.audio{
+	display: block;
+}
+
+#k1{
+	background-color: #FCD1D1;
+}
+#k2{
+	background-color: #AEE1E1
+}
+#k3{
+	background-color: #D3E0DC;
+}
+#k4{
+	background-color: #F9DFDC;
+}
+#k5{
+  background-color: #FFFFFF;
+}
+
+
+iframe{
+	width: 560px;
+	height:315px;
+	padding: 20px;
+	border :3px solid black;
+}
+
+</style>
+	
+  </head>
+  <body>
+</div>
+
+  <div class="content">
+    <div class="row" id="k5">
+    	<div>
+		<h2>Di play dulu dong biar kerasa vibe nya</h2> <br></div>
+		<div>
+    	<iframe width="560" height="315" src="https://www.youtube.com/embed/gi2tmrAXJ04?start=79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	</div>
+    	<div><br>
+		<h2>Biar langsung mnt 1:17 aj ya,
+      Soalnya itu sebagian yang ku pengen ngomongin </h2> <br></div>
+	</div>
+    <div class="row" id="k2">
+	  <h4 > Haiii kamuuu </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4 > Mau ngomong nih </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> Tapi sebentar ya </h4>
+	</div>
+	  <div class="row" id="k1">
+	  <h4> Ngga deh, lanjut aj yu </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Jadi kamu kan ultah yaa </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> Keknya daripada ngomong langsung kek biasa bet gak si </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> makanya aku buat dh wkwk </h4>
+	</div>
+	  <div class="row" id="k1">
+	  <h4> walaupun kemarin udh sempet ngirim yg sama kan</h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> tapi tenang, ini khusus buat sekarang </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> apa yaa, mau bilang suka juga keknya aneh </h4>
+  </div>
+    <div class="row" id="k4">
+	  <h4> dh 2 taun si semenjak ku suka ma kmu </h4>
+  </div>
+	  <div class="row" id="k1">
+	  <h4> dh nyoba bbrapa kali juga tpi tetep gagal, dan kamu dh tau itu </h4>
+  </div>
+    <div class="row" id="k2">
+	  <h4> entah knpa ya, rasanya makin ngejauh aj </h4>
+  </div>
+    <div class="row" id="k3">
+	  <h4> awalnya sakit bgt si tpi skrang rasanya kaya udh biasa aj </h4>
+  </div>
+    <div class="row" id="k4">
+	  <h4> rasanya ya udh aj, buang dan cari lgi </h4>
+  </div>
+	  <div class="row" id="k1">
+	  <h4> itu yg sbnernya harus ku lakuin kan, tpi gimna lagi org aku bner2 keras kepala kan </h4>
+  </div>
+    <div class="row" id="k2">
+	  <h4> apa lagi ya... </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> ehiya kamu kan ultah </h4>
+  </div>
+    <div class="row" id="k4">
+    <h4> Semogaa dipanjangkan umurnya </h4>
+	</div>
+	  <div class="row" id="k1">
+	  <h4> Dilancarkan selalu Rezekinya </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Menjadi orang yg bisa membanggakan ortu dan keluarga </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> Soo keknya itu aj si </h4>
+	</div>
+	  <div class="row" id="k4">
+    <h4> Dah ya Niaa Semoga lebih baik dari sebelumnya </h4>
+	</div>
+    <div class="row" id="k1">
+	  <h4> Thanks ya </h4>
+  </div>
+    <div class="row" id="k2">
+	  <h4> Sampe ketemu di lain waktu </h4>
+  </div>
+    <img src="224334692_564912528203088_6516722783130228467_n_2.jpg">
+
+</div>
+</div>
+  </body>
+  
+</html>
